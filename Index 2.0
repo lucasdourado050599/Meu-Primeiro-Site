@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<link href="https://fonts.googleapis.com/css2?family=Asap:ital,wght@1,700&family=Nunito:wght@700&family=Yellowtail&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="../css/normalize.css">
+<link rel="stylesheet" type="text/css" href="../css/style.css">
+      <title>Versão 2.0 Vc Alpha</title>
+</head>
+<body>
+   <nav>
+        <a href="#"><img src="../imagens/logo.png" alt="camera"></a>
+        <ul>
+		   <li> <a href="#"> Início</a></li>
+		   <li> <a href="quem-somos.html">Quem somos</a></li>
+		   <li> <a href="#serviços"> Fornecedores</a></li>
+		   <li> <a href="#contatos">Nossa Localização</a></li>
+		</ul>
+   </nav>
+   
+   <div  id="whats">
+<a href="https://api.whatsapp.com/send?phone=5511931449100&text=Gostaria de solicitar um orçamento" target="_blank"><img  class="whatsapp" src="../imagens/whatsapp.png" /></a>
+</div>
+
+   
+   <header id = "topo">
+        <h1> VC ALPHA Materiais de construção</h1>
+		<p> A melhor Loja de materiais de construção da região de Alphaville</p>
+		<a href="#serviços"class= "botao">Ver mais</a>
+   </header>
+   
+   <section id="sobre">
+   <h2>Quem somos</h2>
+   <p> Localizada na Av Netuno, 09 Centro de Apoio 1 Alphaville.<br>
+Conta com espaço físico com capacidade voltada ao fornecimento e abastecimento de material bruto pra construção e reforma nas proximidades da região de Alphaville.
+   </p>
+   <a href="#contato" class= "botao">Saiba mais </a>
+   </section>
+   
+   <section id="serviços"> 
+   <div>
+   <h2>Orçamentos</h2>
+<a href="https://api.whatsapp.com/send?phone=5511931449100&text=Gostaria de solicitar um orçamento" target="_blank"><img src="../imagens/whats.png" alt="Whatsapp"></a>
+   <h3>Solicite o seu orçamento através do nosso whatsapp</h3>
+    </div>
+       
+   <div>
+   <h2>Localização</h2>
+  <a href="#"> <img src="../imagens/localiza.png" alt="Localização"> </a>
+   <h3>Encontre aqui a localização das nossas lojas.</h3>
+   
+   </div>
+   </section>
+
+<section id="fotos">
+ <h2>Fornecedores</h2> 
+
+ <img src="../imagens/fornecedores/amanco.jpg" alt="Amanco">
+ <img src="../imagens/fornecedores/steck.png" alt="Steck">
+ <img src="../imagens/fornecedores/coral.jpg" alt="Coral">
+ <img src="../imagens/fornecedores/tramontina.png" alt="Tramotina">
+ <img src="../imagens/fornecedores/vedacit.jpg" alt="Vedacit">
+ <img src="../imagens/fornecedores/starret.jpg" alt="Starret">
+ </section>
+  
+  
+  <section id="contato">
+  <h2>Contato</h2> 
+  <p> Solicite seu orçamento através dos nossos canais de venda, temos o prazer em atender você<p>
+  <div>
+  <img src="../imagens/telefone.png" alt="telefone">
+  <p><a href="Tel: 11931449100"> (11) 93144-9100</a></p>
+  </div>
+
+<div>
+  <img src="../imagens/email.png" alt="email"/>
+  
+  <p><a href="mailto: vendas@vcalpha.com.br">vendas@vcalpha.com.br</a></p>
+  </div>
+
+  
+  </section>
+  
+  <footer>
+  
+  <p>Loja 1--<a href="../unidade1.html">VC Alpha Materiais de Construção Ltda. </a> Av. Netuno, 9. Santana de Parnaíba - SP. Tel (11) 4153-3435</a></p>
+  <p>Loja 2--<a href="../unidade2.html">Artconde Materias para Construção Ltda. </a>  Av. Francisco Lourenço da Costa, 641. Barueri - SP. Tel (11) 93144-9100</p>
+  <p>&copy;Copyright 2020. Todos os direitos reservados. </p>
+  
+  </footer>
+  
+</body>
+</html>    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
