@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>VC ALPHA Materias de construção LTDA | Site relacionado a materiais de construção</title>
+<link rel="stylesheet" type="text/css" href="../css/stylesheet.css">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TPMEZ99ZQM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TPMEZ99ZQM');
+</script>
+</head>
+<body>
+
+<div id="container">
+
+<div id="menu">
+	<ul>
+		<li><a href="../index.html">&nbsp;Página Inicial</a></li>
+		<li><a>Fornecedores &nbsp; &nbsp;&nbsp;</a>
+			<ul>
+				<li><a href="../hidraulica.html">Hidráulica</a></li>
+				<li><a href="../eletrica.html">Elétrica </a></li>
+				<li><a href="../tintas.html">Tintas</a></li>				
+				<li><a href="../ferramentas.html">Ferramentas </a></li>
+				<li><a href="../impermeabilizantes.html">Impermeabilizantes </a></li>
+				
+			</ul>
+		</li>
+		
+		<li><a href="../quem-somos.html">Quem Somos</a></li>
+		
+		
+		
+		<li><a>Nossa Localização</a>
+			<ul>
+				<li><a href="../unidade1.html">Unidade 1 <a></li>
+				<li><a href="../unidade2.html"> Unidade 2</a></li>							
+			</ul>
+		</li>
+		
+		
+		<li><a href="../contato.html">Contato &nbsp;</a></li>
+	</ul>
+</div>
+
+<div  id="whats">
+<a href="https://api.whatsapp.com/send?phone=5511931449100&text=Gostaria de solicitar um orçamento" target="_blank"><img  class="whatsapp" src="https://3.bp.blogspot.com/-ckiKOobNJy8/XRIGyySxDII/AAAAAAAACv0/09JFzT4vlcUYHq19lu-pQfWjYq6dyKYzQCLcBGAs/s1600/contatowhats.png" /></a>
+</div>
+
+
+<div id="header" class="resumo-item">
+	<h1></h1>
+	
+</div>
+
+<div id="content">
+	<h3>Destaques</h3>
+	<div class="resumo-item">
+		<img src="../imagens/orcamento.jpg" alt="Ver mais informação" /></a>
+		<p class="btn"><a href="../orcamentos.html">Orçamentos</a></p>
+	</div>
+	
+	<div class="resumo-item">
+		<img src="../imagens/dicas.jpg" alt="Ver mais informação" /></a>
+		<p class="btn"><a href="../dicas.html">Dicas</a></p>
+	</div>
+	
+	<div class="resumo-item">
+		<img src="../imagens/promo.jpeg" alt="Ver mais informação" /></a>
+		<p class="btn"><a href="../promocoes.html">Promoções</a></p>
+	</div>
+	
+	<div class="resumo-item">
+		<img src="../imagens/novidades.jpg" alt="Ver mais informação" /></a>
+		<p class="btn"><a href="../novidades.html">Novidades</a></p>
+	</div>
+
+	<br />
+	<br />
+	<br />
+
+</div>	
+
+<div id="footer">
+      <p id="copyright">---SITE EM CONSTRUÇÃO---</p><br><br>
+    <p id="loja">Loja 1--<a href="../unidade1.html" style= "color: #000000">VC Alpha Materiais de Construção Ltda. </a> Av. Netuno, 9. Santana de Parnaíba - SP. Tel (11) 4153-3435</a></p><br>
+	<p id="loja">Loja 2--<a href="../unidade2.html"style= "color: #000000">Artconde Materias para Construção Ltda. </a>  Av. Francisco Lourenço da Costa, 641. Barueri - SP. Tel (11) 93144-9100</p><br>
+	<p id="copyright">&copy;Copyright 2020. Todos os direitos reservados</p>
+	<p id="back-top"><a href="#"><img src="../imagens/icon-up.png" alt="back-top" border="0" /></a></p>
+</div>
+
+
+
+</body>
+</html>
