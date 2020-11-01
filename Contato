@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>VC ALPHA Materias de construção LTDA | Site relacionado a materiais de construção</title>
+<link rel="stylesheet" type="text/css" href="../css/stylesheet.css">
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TPMEZ99ZQM');
+</script>
+</head>
+<body>
+
+<div id="container">
+
+<div id="menu">
+	<ul>
+		<li><a href="../index.html">&nbsp;Página Inicial</a></li>
+		<li><a>Fornecedores &nbsp; &nbsp;&nbsp;</a>
+			<ul>
+				<li><a href="../hidraulica.html">Hidráulica</a></li>
+				<li><a href="../eletrica.html">Elétrica </a></li>
+				<li><a href="../tintas.html">Tintas</a></li>				
+				<li><a href="../ferramentas.html">Ferramentas </a></li>
+				<li><a href="../impermeabilizantes.html">Impermeabilizantes </a></li>
+				
+			</ul>
+		</li>
+		
+		<li><a href="../quem-somos.html">Quem Somos</a></li>
+		
+		
+		
+		<li><a>Nossa Localização</a>
+			<ul>
+				<li><a href="../unidade1.html">Unidade 1 <a></li>
+				<li><a href="../unidade2.html"> Unidade 2</a></li>							
+			</ul>
+		</li>
+		
+		
+		<li><a href="../contato.html">Contato &nbsp;</a></li>
+	</ul>
+</div>
+
+<div id="header" class="page">
+	
+	<h1>Entre em contato</h1>
+</div>
+
+<div id="content">
+			<p>Orçamentos, dúvidas ou sujestões é só entrar em contato através da caixa de mensagem abaixo ou nas redes sociais. Estamos sempre dispostos a ouvi-lo.</p>
+			
+			<div id="contact">
+				<form action="MAILTO:ti@vcalpha.com.br" method="post" enctype="text/plain">
+					<fieldset>
+						<label for="name">Nome:</label>
+						<input type="text" id="name"  placeholder="Nome Completo"  />
+			
+						<label for="email">Email:</label>
+						<input type="email" id="email" placeholder="Endereço de Email" />
+			
+						<label for="message">Mensagem:</label>
+						<textarea id="message" placeholder="Em que você está pensando?"></textarea>
+			
+						<input type="submit" value="Enviar mensagem" />
+			
+					</fieldset>
+				</form>
+			</div>
+			
+			<div id="social">
+				<h3>Permaneça conectado conosco</h3>
+				<p>Estamos sempre de olho nas últimas tendencias do mercado e compartilhando tudo com nossos clientes através do site e das nossas redes sociais:</p>
+				<ul>
+					<li><a href="http://twitter.com"><img src="../imagens/icon-twitter.png" /><br /> Twitter</a></li>
+					<li><a href="http://facebook.com"><img src="../imagens/icon-facebook.png" /><br /> Facebook</a></li>
+					<li><a href="http://vimeo.com"><img src="../imagens/icon-vimeo.png" /><br /> Vimeo</a></li>
+					<li><a href="http://plus.google.com"><img src="../imagens/icon-googleplus.png" /><br /> Google +</a></li>
+				</ul>
+			</div>
+			
+			
+			
+			
+			
+																		<p>
+																		<a 
+																		  href="#" "
+																		  onclick="window.open(
+																			'http://api.whatsapp.com/send?1=pt_BR&phone=5511931101300', 'location=yes');">
+																		  <img src="https://i.imgur.com/suCWxMs.png" style="width:10%;">
+																		</a>
+																		</p>
+																		</div>
+
+<div id="footer">
+    <p id="loja">Loja 1--<a href="../html/unidade1.html" style= "color: #000000">VC Alpha Materiais de Construção Ltda. </a> Av. Netuno, 9. Santana de Parnaíba - SP. Tel (11) 4153-3435</a></p><br>
+	<p id="loja">Loja 2--<a href="../html/unidade2.html"style= "color: #000000">Artconde Materias para Construção Ltda. </a>  Av. Francisco Lourenço da Costa, 641. Barueri - SP. Tel (11) 93144-9100</p><br>
+	<p id="copyright">&copy;Copyright 2020. Todos os direitos reservados</p>
+	<p id="back-top"><a href="#"><img src="../imagens/icon-up.png" alt="back-top" border="0" /></a></p>
+</div>
+
+
+</body>
+</html>
